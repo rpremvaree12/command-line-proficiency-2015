@@ -1,0 +1,11 @@
+What is the command that displays your current working directory?
+your_answer = ____________
+
+What is the command to list all of the files and directories in your current working directory?
+your_answer = ____________
+
+What is the command to move the image of the dirty puppy into the bath tub?
+your_answer = _____________
+
+What is the command to run the file intro-to-ruby.rb?
+your_answer = _____________
