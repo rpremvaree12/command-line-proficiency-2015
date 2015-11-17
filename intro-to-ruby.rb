@@ -5,6 +5,7 @@
 #print the sum of 185 and 14
 
 #print the product of 1.8 and 3.6
+puts 1.8*3.6
 
 #store the number 78 as a variable
 
