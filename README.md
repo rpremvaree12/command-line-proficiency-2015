@@ -2,6 +2,7 @@
 Complete the following tasks:
 
 1. Fork and clone this repository
+2. Change your directory to the cloned directory
 2. Create a new directory and name it as your last name
 3. Go into this new directory
 4. Create a new text file and name it as your first name
