@@ -8,7 +8,8 @@ Complete the following tasks:
 4. Create a new text file and name it as your first name
 5. Open command-line.txt and write your answers
 6. Open the intro-to-ruby.rb file and answer the code prompts
-7. Add your files using `git add .`
-8. Commit your changes using `git commit -m "your message"`
-8. Push your changes using `git push origin master`
-8. Create a pull request
+7. Make sure you are in the repository directory
+8. Add your files using `git add .`
+9. Commit your changes using `git commit -m "your message"`
+10. Push your changes using `git push origin master`
+11. Create a pull request
