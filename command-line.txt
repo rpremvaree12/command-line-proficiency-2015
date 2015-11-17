@@ -7,7 +7,7 @@ your_answer = ____________
 What is the command to move the image of the dirty_puppy into the bathtub?
 your_answer = _____________
 
-If you are in this directory, what is the command to run the file intro-to-ruby.rb?
+If you are in this directory, what is the command to run the file beginning_ruby.rb?
 your_answer = _____________
 
 What is the command to move up one level in the file tree?
