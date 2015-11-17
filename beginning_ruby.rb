@@ -1,5 +1,5 @@
 #create a string and store it in a variable
-
+myfavoritecolors= "purple,gold"
 #print the value of the variable you just created
 
 #Use ruby to calculate and print the sum of 185 and 14
