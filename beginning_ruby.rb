@@ -1,7 +1,7 @@
 #create a string and store it in a variable
-"What's your #{number}?"
+name = "Ryan"
 #print the value of the variable you just created
-number =  gets.chomp
+puts name
 #Use ruby to calculate and print the sum of 185 and 14
 puts (185 + 14)
 #Use ruby to calculate and print the product of 1.8 and 3.6
@@ -11,6 +11,6 @@ puts (155 + 65)/(3.2)
 #store the number 78 as a variable
 x = 78
 #Use ruby to print the average of the following numbers: 78, 55, 63, 98
-(78 + 55 + 63 + 98)/(4)
+puts (78 + 55 + 63 + 98)/(4)
 #comment out the following line
 #puts "When you run this file, this sentence should not appear on the terminal."

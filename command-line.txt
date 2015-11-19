@@ -8,7 +8,7 @@ What is the command to move the image of the dirty_puppy into the bathtub?
 your_answer = _mv____________
 
 If you are in this directory, what is the command to run the file beginning_ruby.rb?
-your_answer = _______cd______
+your_answer = _______ruby beginning_ruby.rbs____
 
 What is the command to move up one level in the file tree?
 your_answer = ______._______
