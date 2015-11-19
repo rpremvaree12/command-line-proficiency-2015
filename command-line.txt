@@ -1,17 +1,16 @@
 What is the command that displays your current working directory?
-your_answer = ____________
+your_answer = _______pwd_____
 
-What is the command to list all of the files and directories in your current working directory?
-your_answer = ____________
+What is the command to list all of the files and directories in your current working directory?__ls_____
 
 What is the command to move the image of the dirty_puppy into the bathtub?
-your_answer = _____________
+your_answer = mv dirty_puppy.jpg bathtub
 
 If you are in this directory, what is the command to run the file beginning_ruby.rb?
-your_answer = _____________
+your_answer = _____ruby beginning_ruby.rb________
 
 What is the command to move up one level in the file tree?
-your_answer = _____________
+your_answer = _____..________
 
 What is the command to remove the file name remove_this.html
-your_answer = ____________
+your_answer = ______rm -r remove_this.html______
