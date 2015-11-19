@@ -1,5 +1,5 @@
 What is the command that displays your current working directory?
-your_answer = 
+your_answer = pwd
 
 What is the command to list all of the files and directories in your current working directory?
 your_answer = ls 
@@ -11,7 +11,7 @@ If you are in this directory, what is the command to run the file beginning_ruby
 your_answer = test beginning_ruby.rb
 
 What is the command to move up one level in the file tree?
-your_answer =..
+your_answer = ..
 
 What is the command to remove the file name remove_this.html
 your_answer = rm remove_this.html

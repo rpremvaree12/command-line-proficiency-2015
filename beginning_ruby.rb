@@ -14,4 +14,4 @@ puts x + 32
 #Use ruby to print the average of the following numbers: 78, 55, 63, 98
 [78,55,63,98]
 #comment out the following line
-"When you run this file, this sentence should not appear on the terminal."
+#"When you run this file, this sentence should not appear on the terminal."
