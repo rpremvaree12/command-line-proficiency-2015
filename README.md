@@ -2,7 +2,7 @@
 Complete the following tasks.
 
 1. Fork and clone this repository
-2. Create a new directory and name it with your last name
+2. Create a new directory and name it with your last name 
 3. Go into this new directory
 4. Create a new text file and name it with your first name
 5. Open up command-line.txt and write your answers
