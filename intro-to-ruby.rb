@@ -12,4 +12,4 @@ puts 1.8*3.6
 #print the average of the following numbers: 78, 55, 63, 98
 
 #comment out the following line
-puts "When you run this file, this sentence should not appear on the terminal."
+# puts "When you run this file, this sentence should not appear on the terminal."
