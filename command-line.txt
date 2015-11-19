@@ -5,7 +5,7 @@ What is the command to list all of the files and directories in your current wor
 your_answer = ls
 
 What is the command to move the image of the dirty_puppy into the bathtub?
-your_answer = mv ~/software-engineering/command-line-proficiency-2015/dirty_puppy.jpg software-engineering/command-line-proficiency-2015/bathtub
+your_answer = mv dirty_puppy.jpg ../bathtub
 
 If you are in this directory, what is the command to run the file beginning_ruby.rb?
 your_answer = ruby beginning_ruby.rb
