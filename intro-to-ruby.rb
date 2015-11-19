@@ -12,9 +12,10 @@ puts 1.8 * 3.6
 #store the number 78 as a variable
 
 number = 78
+puts "#{number}"
 #print the average of the following numbers: 78, 55, 63, 98
 
-puts 78 + 55 + 63 + 98/ 4
+puts (78 + 55 + 63 + 98)/ 4
 #comment out the following line
 
 # puts "When you run this file, this sentence should not appear on the terminal."#
