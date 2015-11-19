@@ -1,10 +1,7 @@
 #create a string and store it in a variable
-stuff= "Hello world"
-def variable(stuff)
-    "#{stuff}! I'm using ruby."
-end
+stuff= "Hello world!"
 #print out the value of the variable you just created
-puts variable(stuff)
+puts stuff
 #print the sum of 185 and 14
 puts 185 + 14
 #print the product of 1.8 and 3.6
